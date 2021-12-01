@@ -5,7 +5,7 @@
 
 </p>
 
- # Présentation
+ # About Me
 - 👀  I'm interested in all types of programming. I'm a bit of a jack of all trades and that's why my curiosity has no limits!
 - 🌱  I’m currently learning ReactJs, Js, TS and Docker
 - 💞️  I’m looking to collaborate on all the projects that are close to your heart and to which you would be ready to entrust me your desires so that we advance together.
