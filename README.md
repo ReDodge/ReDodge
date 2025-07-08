@@ -1,56 +1,63 @@
+<h1 align="center">👋 Hello, I’m Hugo Manginot</h1>
 <p align="center">
-<h1>👋 I am Manginot Hugo. Nice to connect!</h2> 
+🎓 Graduated with a Master’s degree from <b>Epitech Lyon</b>  
+💻 Full Stack Developer | JavaScript Enthusiast | Cloud Explorer  
+🚀 Passionate about building modern, scalable, and intelligent web applications
 </p>
 
-A curious IT student and a motivated individual.  
-I have a Bachelor degree from, <b>Epitech</b>.  
-I am a Full Stack developer.
+---
 
-### Languages
+## 🧠 About Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+- 🎯 Focused on **JavaScript / TypeScript**, **NestJS**, **React**, and **Angular**
+- ☁️ Building and deploying projects on **AWS**
+- 🧩 Leveraging **ChatGPT**, **GitHub Copilot**, and AI tools for development
+- 🗄️ Working with **PostgreSQL**, **MariaDB**, and scalable backends
+- 🛠️ I love creating seamless user experiences and powerful APIs
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+---
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🛠️ Tech Stack
 
-### Frameworks & Libraries
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+### ⚙️ Frameworks & Libraries
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-1C1C1C?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-### Database
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🎨 UI & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Design
+### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### Version Control
+## 📊 GitHub Stats
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReDodge&hide=stars&show_icons=true&theme=blueberry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDodge&layout=compact&theme=blueberry" width="48%" />
+</div>
 
-### IDEs & Editors
+---
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+## 📫 Connect with Me
 
-#### Social 👥
-
-[![Linkedin](https://img.shields.io/badge/-Manginot%20Hugo-black?style=for-the-badge&logo=Linkedin)](https://fr.linkedin.com/in/hugo-manginot-56450a1a3)
-### Stats 📈
-
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=ReDodge&hide=stars&show_icons=true&theme=blueberry" />
-
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDodge&layout=compact&theme=blueberry" /> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Manginot-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/hugo-manginot-56450a1a3)
